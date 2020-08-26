@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Priyanshu Kumar\\Documents\\QuantumRNG\\QuantumRNG.csproj": {}
+    "c:\\Users\\Priyanshu Kumar\\Documents\\QuantumRNG\\QuantumRNG.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Priyanshu Kumar\\Documents\\QuantumRNG\\QuantumRNG.csproj": {
+    "c:\\Users\\Priyanshu Kumar\\Documents\\QuantumRNG\\QuantumRNG.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Priyanshu Kumar\\Documents\\QuantumRNG\\QuantumRNG.csproj",
+        "projectUniqueName": "c:\\Users\\Priyanshu Kumar\\Documents\\QuantumRNG\\QuantumRNG.csproj",
         "projectName": "QuantumRNG",
-        "projectPath": "C:\\Users\\Priyanshu Kumar\\Documents\\QuantumRNG\\QuantumRNG.csproj",
+        "projectPath": "c:\\Users\\Priyanshu Kumar\\Documents\\QuantumRNG\\QuantumRNG.csproj",
         "packagesPath": "C:\\Users\\Priyanshu Kumar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Priyanshu Kumar\\Documents\\QuantumRNG\\obj\\",
+        "outputPath": "c:\\Users\\Priyanshu Kumar\\Documents\\QuantumRNG\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Priyanshu Kumar\\AppData\\Roaming\\NuGet\\NuGet.Config"
